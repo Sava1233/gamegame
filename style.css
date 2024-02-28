@@ -1,0 +1,70 @@
+body{
+    background-image:url( https://avatars.dzeninfra.ru/get-zen_doc/8170504/pub_6409f82f90d3b011ec2e8ee0_6409f897352af862c4fcbc04/scale_1200);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#game{
+    background-image:url("https://s0.rbk.ru/v6_top_pics/media/img/7/45/756786857957457.jpg");
+    background-size: cover;
+    width:540px ;
+    height: 200px;
+    margin-left: 640px;
+    opacity: 0.6;
+    margin-top: 20px;
+}
+.character{
+    background-color: chartreuse;
+    width:55px ;
+    height:55px ;
+    padding: 15px;
+    margin: 5px;
+    padding-top: 20px;
+    float: left;
+    opacity: 1;
+    text-align: center;
+    background-image: url("https://demon-time.narod.ru/Stalker/NPC_S_T_A_L_K_E_R/NPC_S_T_A_L_K_E_R.files/1-stalker1.gif");
+    background-size: cover;
+    display: none;
+}
+
+.mercenary{
+    background-image: url("https://static.wikia.nocookie.net/stalker/images/b/b3/Render_stalker_ki_head_5.png/revision/latest?cb=20220122181240&path-prefix=ru");
+
+}
+
+#but{
+    width: 250px;
+    height:40px ;
+    background-color: darkgreen;
+    margin-left: 770px;
+    margin-top: 200px;
+    font-size: 30px;
+    
+    
+}
+#but:hover{
+    background-color: brown;
+    
+}
+.wer{
+    width: 1000px;
+    height:20px ;
+    color: chartreuse;
+    font-size: 100px;
+    margin-left: 600px;
+}
+
+.visible{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+.character:hover{
+    scale:1.1;
+}
+.ert{
+    font-size: 125px;
+    color: azure;
+    margin-left: 700px;
+}
